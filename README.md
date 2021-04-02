@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I am currently an undergraduate student majoring in **Computer Science and Technology** at [Shanghai University](https://www.shu.edu.cn/).
-- 🎓 I will continue to pursue my Master's degree in **Computer Science** at [University of Amsterdam](https://www.uva.nl/en?cb) \& [Vrije University Amsterdam](https://www.vu.nl/en/)
+- 🎓 I will continue to pursue my Master's degree in **Computer Science** at [University of Amsterdam](https://www.uva.nl/en?cb) \& [Vrije University Amsterdam](https://www.vu.nl/en/).
 - 📫 How to reach me: ziheng.cheung [at] outlook [dot] com
 
 <!--
