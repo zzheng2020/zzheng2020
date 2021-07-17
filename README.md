@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🎓 I am currently an undergraduate student majoring in **Computer Science and Technology** at [Shanghai University](https://www.shu.edu.cn/).
-- 🎓 I will continue to pursue my Master's degree in **Software Engineering of Distributed Systems** at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden.
+- 🎓 I am currently a postgraduate student majoring in **Software Engineering of Distributed Systems** at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden.
+- 🎓 Prior to attending KTH, I received the bachelor degree in **Computer Science and Technology** from [Shanghai University](https://www.shu.edu.cn/) in Shanghai, China.
 - 📫 How to reach me: ziheng.cheung [at] outlook [dot] com
 
 <!--
